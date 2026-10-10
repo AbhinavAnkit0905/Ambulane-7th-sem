@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚑 Smart Ambulance Emergency Mobility Platform
 
 A **real-time emergency mobility platform** that connects ambulance drivers, normal road users, and an admin control center through a live **Emergency Passage Network** — automatically detecting drivers in an ambulance's path and alerting them to give way.
@@ -274,3 +275,6 @@ Nominatim's terms of service require **≤ 1 request/second** and a proper User-
 ---
 
 *Built as a production-structured prototype. All external services use free/open-source endpoints with proper fallbacks.*
+=======
+# Ambulane-7th-sem
+>>>>>>> f34c41db6234c9f30eb5c3b9e662c193666475be
